@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm final year student (B.tech) cse<br>I'm looking for opportunities<br>I have skills in python,Html,css
+I'm Graduated in (B.tech) cse<br>I'm looking for opportunities<br>I have skills in python,Html,css
 
 
 ## 🌐 Socials:
